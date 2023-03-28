@@ -1,1 +1,2 @@
-print("merhaba")
+name=["Emir","Yağmur","Ahmet"]
+print(name)
